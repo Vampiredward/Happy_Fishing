@@ -1,0 +1,1 @@
+It's really difficult to understand how Github works. Is it a file controlling system but which organized well with certain logic to accomplish perfect version control for development? Which means, indeed I cannot coding in Github but in Visual Studio or such IDE and modify the related files which can be controlled by Github?
