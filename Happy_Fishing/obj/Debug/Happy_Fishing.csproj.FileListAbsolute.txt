@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Happy_Fishing\Happy_Fishing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Happy_Fishing\Happy_Fishing\obj\Debug\Happy_Fishing.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Happy_Fishing\Happy_Fishing\obj\Debug\Happy_Fishing.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Happy_Fishing\Happy_Fishing\obj\Debug\Happy_Fishing.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Happy_Fishing\Happy_Fishing\bin\Debug\Happy_Fishing.exe
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Happy_Fishing\Happy_Fishing\bin\Debug\Happy_Fishing.pdb
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Happy_Fishing\Happy_Fishing\obj\Debug\Happy_Fishing.exe
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Happy_Fishing\Happy_Fishing\obj\Debug\Happy_Fishing.pdb
